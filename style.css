@@ -245,6 +245,14 @@ button {
   padding: 18px 16px;
 }
 
+.hint-panel {
+  background: rgba(237, 243, 240, 0.58);
+  border: 1px solid rgba(23, 58, 52, 0.08);
+  border-radius: 22px;
+  margin: 0 0 16px;
+  padding: 18px 16px;
+}
+
 .answer-label {
   color: var(--text-soft);
   font-size: 0.9rem;
@@ -261,7 +269,7 @@ button {
 }
 
 .hint-label {
-  margin-top: 18px;
+  margin-top: 0;
 }
 
 .nav-row {
